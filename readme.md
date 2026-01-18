@@ -55,4 +55,5 @@ Angle: 90
 Iterations: 2
 Step Length: 10
 Output:
-![Fractal Plant Output](plant_sample.png)
+![Fractal Plant Output](plant_sample.png.png)
+
