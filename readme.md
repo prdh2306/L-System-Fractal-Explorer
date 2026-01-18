@@ -22,6 +22,7 @@ Ensure Python 3 is installed.
 Clone or download main.py.
 Run the script via terminal:
 python main.py
+
 Recommended test cases:
 1. The Fractal Plant (Nature Simulation)
 Axiom: X
@@ -53,3 +54,5 @@ Rules: F:FF+F+F+F+F+F-F
 Angle: 90
 Iterations: 2
 Step Length: 10
+Output:
+![Fractal Plant Output](plant_sample.png)
